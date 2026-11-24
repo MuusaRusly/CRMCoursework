@@ -30,7 +30,7 @@ To run it in Google Colab, start with:
 
 ```
 !git clone https://github.com/MuusaRusly/CRMCoursework
-%cd crm-coursework-stock-clusters
+%cd CRMCoursework
 ```
 
 ## What's in the repo
